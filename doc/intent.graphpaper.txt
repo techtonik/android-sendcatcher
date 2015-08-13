@@ -1,0 +1,38 @@
+intent:#Intent;action=android.intent.action.SEND;type=application/pdf;launchFlags=0x3000001;S.android.intent.extra.SUBJECT=;S.android.intent.extra.TEXT=;end 
+
+ACTION: android.intent.action.SEND 
+DATA: null 
+TYPE: application/pdf 
+
+FLAGS:
+FLAG_GRANT_READ_URI_PERMISSION 
+FLAG_ACTIVITY_FORWARD_RESULT 
+FLAG_ACTIVITY_PREVIOUS_IS_TOP 
+
+EXTRAS:
+EXTRA 1:
+Class: java.lang.String 
+Key: android.intent.extra.SUBJECT 
+Value: 
+EXTRA 2:
+Class: java.lang.String 
+Key: android.intent.extra.TEXT 
+Value: 
+EXTRA 3:
+Class: android.net.Uri$HierarchicalUri 
+Key: android.intent.extra.STREAM 
+Value: file:///storage/emuated/0/Documents/graph-paper/pdf/60e8...a0d.pdf
+EXTRA 4:
+Class: [Ljava.lang.String; 
+Key: android.intent.extra.EMAIL 
+
+8 ACTIVITIES MATCH THIS INTENT:
+ChatON (com.sec.chaton - com.sec.chaton.IntentControllerActivity)
+Samsung Link (com.sec.pcw - com.mfluent.asp.ui.MobileChargesNotificationActivity)
+Wi-Fi Direct (com.sec.android.app.FileShareClient - com.sec.android.app.FileShareClient.DeviceSelectActivity)
+Bluetooth (com.android.bluetooth - com.android.bluetooth.opp.BluetoothOppLauncherActivity)
+Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Dropbox (com.dropbox.android - com.dropbox.android.activity.DropboxSendTo)
+E-mail (com.android.email - com.android.email.activity.MessageCompose)
+Gmail (com.google.android.gm - com.google.android.gm.ComposeActivityGmail)
+Ð”Ð¸ÑÐº (com.google.android.apps.docs - com.google.android.apps.docs.shareitem.UploadSharedItemActivity)
+Skype (com.skype.raider - com.skype.android.app.main.SplashActivity)
