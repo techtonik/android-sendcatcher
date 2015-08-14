@@ -21,18 +21,19 @@ Value:
 EXTRA 3:
 Class: android.net.Uri$HierarchicalUri 
 Key: android.intent.extra.STREAM 
-Value: file:///storage/emuated/0/Documents/graph-paper/pdf/60e8...a0d.pdf
+Value: file:///storage/emulated/0/Documents/graph-paper/pdf/e6d94826-def6-455c-9b05-70e48528ef18.pdf 
 EXTRA 4:
 Class: [Ljava.lang.String; 
 Key: android.intent.extra.EMAIL 
 
-8 ACTIVITIES MATCH THIS INTENT:
+9 ACTIVITIES MATCH THIS INTENT:
 ChatON (com.sec.chaton - com.sec.chaton.IntentControllerActivity)
 Samsung Link (com.sec.pcw - com.mfluent.asp.ui.MobileChargesNotificationActivity)
 Wi-Fi Direct (com.sec.android.app.FileShareClient - com.sec.android.app.FileShareClient.DeviceSelectActivity)
 Bluetooth (com.android.bluetooth - com.android.bluetooth.opp.BluetoothOppLauncherActivity)
-Ð”Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ Ð² Dropbox (com.dropbox.android - com.dropbox.android.activity.DropboxSendTo)
+Добавить в Dropbox (com.dropbox.android - com.dropbox.android.activity.DropboxSendTo)
 E-mail (com.android.email - com.android.email.activity.MessageCompose)
 Gmail (com.google.android.gm - com.google.android.gm.ComposeActivityGmail)
-Ð”Ð¸ÑÐº (com.google.android.apps.docs - com.google.android.apps.docs.shareitem.UploadSharedItemActivity)
+Диск (com.google.android.apps.docs - com.google.android.apps.docs.shareitem.UploadSharedItemActivity)
 Skype (com.skype.raider - com.skype.android.app.main.SplashActivity)
+
